@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trc:home|Door43 (trc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trc|d43-trc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trc/archive/master.zip|d43-trc.zip]]
+
+**Recent Changes**
+{{changes>ns = trc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trc|Ethnologue data]]
+
